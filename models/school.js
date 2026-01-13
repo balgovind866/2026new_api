@@ -10,6 +10,7 @@ module.exports = (sequelize, DataTypes) => {
         autoIncrement: true,
         allowNull: false,
       },
+      //djdfdhf
 
       // ======================
       // Basic School Info
